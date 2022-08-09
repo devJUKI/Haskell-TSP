@@ -16,8 +16,6 @@ With this input, program has to calculate the cheapest path to visit all listed 
 
 ## Test samples
 
-Here are 3 tests, to show how this program is working. In one of them, the program had to find, that the induced subgraph is connected and the other two are not connected.
-
 ### First test
 
 #### Input
